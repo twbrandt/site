@@ -7,7 +7,7 @@ pygmentsUseClasses = true
 
 [params]
 	site_author = "Tom Brandt"
-	avatar = "/images/iceland_1.jpg"
+	avatar = "/images/avatar.jpg"
 	location = "Ann Arbor, MI"
 	copyright = "Thomas W. Brandt"
 	header_background = "/images/header.jpg"
