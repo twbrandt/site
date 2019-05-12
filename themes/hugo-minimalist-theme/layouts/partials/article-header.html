@@ -1,0 +1,13 @@
+{{ if .IsPage }}
+<h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+  <footer class="post-info">{{ .Site.Data.l10n.article.posted_on }} <span class="post-meta"><time datetime="{{ .Date.Format "2006.01.02" }}">{{ .Date.Format "2006.01.02" }}</time>
+  {{ if isset .Params "categories" }}
+      {{ if gt (len .Params.categories) 0 }}&middot; {{ .Site.Data.l10n.article.tagged_in }}
+          {{ range $i, $v := .Params.categories }}
+          <a href="{{ $.Site.BaseURL }}categories/{{ $v | urlize }}">{{ $v | lower }}</a>{{ if ne (len $.Params.categories) (add $i 1) }}, {{ end }}
+          {{ end }}
+      {{ end }}
+  {{ end }}
+  </span>
+  </footer>
+{{ end }}

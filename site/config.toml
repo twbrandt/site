@@ -1,0 +1,18 @@
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-minimalist-theme"
+languageCode = "en-us"
+title = "Tom Brandt"
+pygmentsUseClasses = true
+
+[params]
+	site_author = "Tom Brandt"
+	avatar = "/images/iceland_1.jpg"
+	location = "Ann Arbor, MI"
+	copyright = "Thomas W. Brandt"
+	header_background = "/images/header.jpg"
+	header_title = "Software Engineering and Other Ephemera"
+
+[social]
+	twitter = "twbrandt"
+	github = "twbrandt"
