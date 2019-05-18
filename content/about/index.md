@@ -6,9 +6,9 @@ draft: false
 
 {{< figure src="/images/twb.jpg" alt="Tom Brandt" >}}
 
-I am a software engineer living and working in Ann Arbor, MI. I work on large, complex web apps built with Ruby on Rails and Ember. I am the Director of Engineering for [Trice Imaging](https://triceimaging.com) and one of the co-owners of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
+I am a software engineer living in Ann Arbor, MI, where I work on large, complex web apps built with Ruby on Rails and Ember. I am the Director of Engineering for [Trice Imaging](https://triceimaging.com), and one of the co-owners of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
 
-I love travel. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, France, Germany, Austria, the Czech Republic, Spain, and Portugal. Prague is the most beautiful city I have visited, and Barcelona the most interesting.
+Travel is something I enjoy immensely. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, France, Germany, Austria, the Czech Republic, Spain, and Portugal. Prague, Barcelona, and Edinburgh are my favorite European cities.
 
 Music keeps me sane. I am a baritone with [Vanguard Voices](http://vanguardvoices.org) and the [Aeolian Chorale](https://www.facebook.com/aeolianchorale). I have had the privilege of performing, among many other things, Beethoven's Ninth Symphony with the Detroit Symphony Orchestra, the Mass in B-Minor by JS Bach, and Maurice Duruflè's setting of the Requiem Mass.
 
