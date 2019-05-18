@@ -1,7 +1,6 @@
 ---
 title: "The Manhattan"
 date: 2019-05-14T19:04:22-04:00
-draft: true
 categories: ["craft cocktails"]
 ---
 
