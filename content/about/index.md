@@ -1,12 +1,12 @@
 ---
 title: "About Me"
-date: 2019-05-11T16:04:08-04:00
+date: 2021-02-27T11:01:08-04:00
 draft: false
 ---
 
 {{< figure src="/images/twb.jpg" alt="Tom Brandt" >}}
 
-I am a software engineer living in Ann Arbor, MI, where I work on large, complex web apps built with Ruby on Rails and Ember. I am the Director of Engineering for [Trice Imaging](https://triceimaging.com), and one of the co-owners of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
+I am a software engineer living in Dearborn, MI, where I work on large, complex web apps built with Ruby on Rails and Ember. I am a senior software engineer for [Trice Imaging](https://triceimaging.com), and a member of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
 
 Travel is something I enjoy immensely. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, France, Germany, Austria, the Czech Republic, Spain, and Portugal. Prague, Barcelona, and Edinburgh are my favorite European cities.
 
