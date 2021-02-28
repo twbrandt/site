@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2021-02-27T11:01:08-04:00
+date: 2021-02-28T11:11:35-04:00
 draft: false
 ---
 
@@ -15,5 +15,12 @@ Music keeps me sane. I am a baritone with [Vanguard Voices](http://vanguardvoice
 Other interests include reading, and the art of the craft cocktail. My current reading interests include mystery (Louise Penney and Reginald Hill are current favorites), and speculative fiction (JRR Tolkien, NK Jemison).
 
 I am an elder in the [Presbyterian Church (USA)](https://www.pcusa.org/) and an active member of the [First Presbyterian Church of Ann Arbor](https://firstpresbyterian.org).
+
+You can contact me at [tom@tombrandt.net](mailto:tom@tombrandt.net). If you know my phone number you can also reach me on Signal.
+
+Elsewhere on the web:
+- twitter: [twbrandt](https://twitter.com/twbrandt)
+- github: [twbrandt](https://github.com/twbrandt)
+- flickr: [twbrandt](https://flickr.com/twbrandt)
 
 *This site is built with [Hugo](https://gohugo.io) and a heavily customized version of the [Hugo Minimalist Theme](https://themes.gohugo.io/hugo-minimalist/). It is hosted on [netlify](https://www.netlify.com/).*

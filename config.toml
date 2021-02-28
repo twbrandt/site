@@ -13,6 +13,3 @@ pygmentsUseClasses = true
 	header_background = "/images/header.jpg"
 	header_title = "Software Engineering and Other Ephemera"
 
-[social]
-	twitter = "twbrandt"
-	github = "twbrandt"
