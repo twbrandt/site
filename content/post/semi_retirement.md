@@ -15,6 +15,7 @@ Time-management is a challenge that I haven't yet overcome. Everyone I talked to
 I must acknowledge the enormous privelege I have in order to be semi-retired. I work in a field that is well-paid, so even though I make quite a bit less that I did when working full-time, I am still paid more than most Americans who work full-time. I own my house outright. And because I am 65, I have government-subsidized healh care. My employer was willing to allow me to step back from full-time work.
 
 There is no reason why anyone can't work less than full-time, other than the choices our society has made:
+
 - we (as a society) have chosen extreme income inequality
 - we have chosen to restrict housing, causing it to be very expensive
 - we have chosen to limit subsidized health care to a subset of the population.
