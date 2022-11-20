@@ -19,7 +19,7 @@ I am an elder in the [Presbyterian Church (USA)](https://www.pcusa.org/) and an 
 You can contact me at [tom@tombrandt.net](mailto:tom@tombrandt.net). If you know my phone number you can also reach me on Signal.
 
 Elsewhere on the web:
-- twitter: [twbrandt](https://twitter.com/twbrandt)
+- mastodon: [@twbrandt@a2mi.social](https://a2mi.social/@twbrandt)
 - github: [twbrandt](https://github.com/twbrandt)
 - flickr: [twbrandt](https://flickr.com/twbrandt)
 
