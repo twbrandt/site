@@ -12,7 +12,7 @@ Travel is something I enjoy immensely. I have traveled extensively throughout th
 
 Music keeps me sane. I am a baritone with the [Aeolian Chorale](https://www.facebook.com/aeolianchorale). I have had the privilege of performing, among many other things, Beethoven's Ninth Symphony with the Detroit Symphony Orchestra, the Mass in B-Minor by JS Bach, and Maurice Duruflè's setting of the Requiem Mass.
 
-Other interests include reading, woodworking, and the art of the craft cocktail. My current reading interests include mystery (Louise Penney and Reginald Hill are current favorites), and speculative fiction (JRR Tolkien, NK Jemison).
+Other interests include reading, woodworking, cooking, baking, and the art of the craft cocktail. My current reading interests include mystery (Louise Penney and Reginald Hill are current favorites), and speculative fiction (JRR Tolkien, NK Jemison).
 
 I am an ordained elder and deacon in the [Presbyterian Church (USA)](https://www.pcusa.org/) and an active member of the [First Presbyterian Church of Ann Arbor](https://firstpresbyterian.org).
 
