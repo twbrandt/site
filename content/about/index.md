@@ -8,7 +8,7 @@ draft: false
 
 I am a retired software engineer living in Dearborn, MI. Before retirement, I was a senior software engineer for [Trice Imaging](https://triceimaging.com). I am a member of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
 
-Travel is something I enjoy immensely. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, France, Norway, Sweden, Germany, Austria, the Czech Republic, Spain, Portugal. Prague, Barcelona, Edinburgh, and Stockholm are particular favorite European cities of mine.
+Travel is something I enjoy immensely. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, Norway, Sweden, France, Germany, Austria, the Czech Republic, Spain, and Portugal. Prague, Barcelona, Edinburgh, and Stockholm are particular favorite European cities of mine.
 
 Music keeps me sane. I am a baritone with the [Aeolian Chorale](https://www.facebook.com/aeolianchorale). I have had the privilege of performing, among many other things, Beethoven's Ninth Symphony with the Detroit Symphony Orchestra, the Mass in B-Minor by JS Bach, and Maurice Duruflè's setting of the Requiem Mass.
 
