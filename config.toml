@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tombrandt.net/"
 themesDir = "themes"
 theme = "hugo-minimalist-theme"
 languageCode = "en-us"
@@ -7,9 +7,9 @@ pygmentsUseClasses = true
 
 [params]
 	site_author = "Tom Brandt"
-	avatar = "/images/avatar.jpg"
+	avatar = "/images/big_sur_small.jpg"
 	location = "Dearborn, MI"
 	copyright = "Thomas W. Brandt"
 	header_background = "/images/header.jpg"
-	header_title = "Various and Sundry Ephemera"
+	header_title = "The Penultimate Word"
 

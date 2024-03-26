@@ -537,9 +537,9 @@ hr {
   }
 
 .profile-image {
-  -webkit-border-radius: 100%;
-  -moz-border-radius: 100%;
-  border-radius: 100%; }
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px; }
 
 .post h2 {
   margin-top: 0; }

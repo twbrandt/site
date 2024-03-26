@@ -4,7 +4,7 @@ date: 2024-03-23T11:11:35-04:00
 draft: false
 ---
 
-{{< figure src="/images/twb.jpg" alt="Tom Brandt" >}}
+{{< figure src="/images/iceland_blog.jpg" alt="Tom Brandt" >}}
 
 I am a retired software engineer living in Dearborn, MI. Before retirement, I was a senior software engineer for [Trice Imaging](https://triceimaging.com). I am a member of [Workantile](http://workantile.org), a coworking community in downtown Ann Arbor.
 
