@@ -2,6 +2,7 @@
 title: "Semi-retirement"
 date: 2021-02-28T11:57:15-05:00
 draft: false
+categories: [retirement]
 ---
 
 In January, 2021 I "semi-retired"; that is, I began working three days per week instead of full-time. And I love it.

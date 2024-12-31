@@ -1,6 +1,7 @@
 ---
 title: "Full-text search with JSONAPI Resources"
 date: 2017-05-31T21:10:00-04:00
+expiryDate: 2024-03-26
 categories: ["ruby on rails", "software engineering"]
 draft: false
 ---

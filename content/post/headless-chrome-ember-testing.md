@@ -1,6 +1,7 @@
 ---
 title:  "Using headless Chrome for Ember testing"
 date: 2017-06-26T15:41:21-04:00
+expiryDate: 2024-03-26
 draft: false
 categories: ["ember", "software engineering"]
 ---
