@@ -6,7 +6,7 @@ draft: false
 
 {{< figure src="/images/iceland_blog.jpg" alt="Tom Brandt" >}}
 
-I am a retired software engineer living in Dearborn, MI. During the course of my career, I worked as a software engineer, team lead, engineering manager, and VP of development for a Michigan-based startup. My last position before retiring was as a senior software engineer for [Trice Imaging](https://triceimaging.com).
+I am a retired software engineer living in Dearborn, MI. I've had various titles during my career, including computer programmer, systems analyst, software developer, software engineer, team lead, engineering manager, VP Development. My last position before retiring was as a senior software engineer for [Trice Imaging](https://triceimaging.com).
 
 Travel is something I enjoy immensely. I have traveled extensively throughout the US and Canada, and have visited England, Wales, Scotland, Iceland, Norway, Sweden, France, Germany, Austria, the Czech Republic, Spain, and Portugal. Prague, Barcelona, Edinburgh, and Stockholm are particular favorite European cities of mine.
 
