@@ -1,5 +1,5 @@
 ---
-title: "Now I Beat The Noncompete"
+title: "How I Beat The Noncompete"
 date: 2025-03-11T11:57:15-05:00
 draft: false
 categories: [miscellaneous]
